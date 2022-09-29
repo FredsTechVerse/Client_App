@@ -9,9 +9,9 @@
  <?php 
 // Creating connnection to the database.
 $servername="localhost";
-$username="root";
-$password="";
-$database="todoapp"; 
+$username="id19643036_root";
+$password="l1Sx[MAu}L)DMvb5";
+$database="id19643036_todoapp"; 
 // Database connection string & Testing.
 $connection = new mysqli($servername,$username,$password,$database);
 //Checking / Verifying Connection.

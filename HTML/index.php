@@ -67,9 +67,9 @@ IN ONE LANGUAGE. SWITCHING ITAKUWA SO EASY . COZ ITS JUST A MATTER OF CHANGING T
                 <!-- To render the database rows dynamically , we start the php code. -->
                 <?php 
                 $servername="localhost";
-                $username="root";
-                $password="";
-                $database="todoapp";
+                $username="id19643036_root";
+                $password="l1Sx[MAu}L)DMvb5";
+                $database="id19643036_todoapp";
                 // Database connection string & Testing.
                 $connection = new mysqli($servername,$username,$password,$database);
                 //Checking/ Verifying Connection.
