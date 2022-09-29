@@ -1,0 +1,42 @@
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+p{
+    margin:2px 4px;
+    border-radius:5px;
+    border: 2px solid red;
+    text-align:center;
+    padding:2px 5px;
+}
+.application{
+    height:100vh;
+    width:75vw;
+    border:1px solid black;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+}
+.heading{
+    text-decoration: underline;
+    color:red;
+    text-transform: uppercase;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.app{
+    height:100%;
+    width:100%;
+    border:1px solid black;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:start;
+}
