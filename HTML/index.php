@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<!-- BUGS TO FIX -->
+<!-- How do i handle redirects? Error pops up kinda insinuating that the header has already been send -->
+<!-- Hiding valuable information in PHP . My passwords and stuff like that. -->
+<!-- Optimization & Lovely Design of website to look like a real application. -->
 <!-- SUBJECTS TO LEARN -->
 <!-- ================= -->
 <!-- 1) I have to get farmiliar with the do while loop.
